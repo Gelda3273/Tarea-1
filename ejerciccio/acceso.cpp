@@ -5,7 +5,7 @@ using namespace std;
 
 void leerArchivo(){ 
 	ifstream archivo("datos.dat", ios::binary);
-	if (!archivo.is_open()) {
+	if (!archivo.is_open()) { lhljhjlhhkghjgjhgjhy
 		cerr << "Error al abrir el archivo!";
 		return;
 	}
